@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.clarifai.clarifai-api2\core\2.2.12\924044cccc392de00d6de871ea0afb4c6a0ce843\core-2.2.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="924044cccc392de00d6de871ea0afb4c6a0ce843">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\core-2.2.12-b38233ac7846994df523d0f2b24dbf09b8a0845b.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\gson-2.7-c896a9395425a4feecdd5392b1f9cee2d144b1cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-21a4f216a0f8a30b68463db13bb5dbb8f3caa38c.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\classes-608ce0566e314f70adb775a2d825e7f5538fab06.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\classes-c2e2445b9afe76190a548e8352e63815fc5749b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\okio-1.9.0-2ab36b9b117be3d9fca2ad45ceea6c1324190ac6.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f32b7491fee09b71ea448e20106c76cc27b47bd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\harsh\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-aff3ab75816c17f06143f241d0f725a824c3fe9e.jar" />
+    </item>
+
+</items>
