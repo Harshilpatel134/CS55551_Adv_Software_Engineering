@@ -1,0 +1,37 @@
+ 
+<div class="modal">
+
+  <!-- Modal header bar -->
+  <ion-header-bar class="bar-secondary">
+    <h1 class="title">New Task</h1>
+    <button class="button button-clear button-positive" ng-click="closeNewTask()">Cancel</button>
+  </ion-header-bar>
+
+  <!-- Modal content area -->
+  <ion-content>
+
+ 
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script type="text/javascript">
+    var service_url = 'https://kgsearch.googleapis.com/v1/entities:search';
+    var params = {
+        'query': 'trump',
+        'limit': 10,
+        'indent': true,
+        'key' : 'AIzaSyDzvCzyfdZSAjj1yE9t5FxF7JwpGM_qgA0',
+    };
+    $.getJSON(service_url + '?callback=?', params, function(response) {
+        $.each(response.itemListElement, function(i, element) {
+            $('<div>', {text:element['result']['name']}).appendTo(document.body);
+        });
+    });
+</script>
+
+
+ 
+
+
+  </ion-content>
+</div>
