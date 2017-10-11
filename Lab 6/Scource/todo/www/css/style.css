@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.bg {
+    background: url('../img/back.jpg') repeat-x;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list{
+   background: url('../img/back.jpg') repeat-x;
+}
